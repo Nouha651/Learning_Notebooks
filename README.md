@@ -38,8 +38,4 @@ Please note that the notebooks provided here are for educational purposes and sh
 
 Contributions to the notebooks, such as bug fixes or additional examples, are welcome. If you have any suggestions or improvements, feel free to create a pull request.
 
-## License
-
-The content of this repository is licensed under the [MIT License](LICENSE).
-
 Happy learning!
